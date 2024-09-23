@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/27b4f1b3-ca41-4343-b74a-f5b5d1027dbc
 
 https://github.com/user-attachments/assets/164f7681-2c3e-4171-9dc9-9fdec1ff69a4
 
-![Charette](/media/sons/charette_cheval.mp4)
+![Charette](/media/sons/test.mp3)
 
 ### Inspirations
 Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien encore _Rome_ qui montrent et explique le mode de vie des romains à leur époque. Les trames sonores et la reconstruction des différents décores romains nous plongent dans leur univers.
