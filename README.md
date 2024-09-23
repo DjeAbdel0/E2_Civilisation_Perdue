@@ -19,13 +19,9 @@ Revisiter l’histoire ancienne en offrant une nouvelle perspective sur le patri
 ### Sonore
 Une bande sonore immersive qui contient un mélange de murmures de foule, de bruits de la nature et de musiques romaines. Des éléments sonores, comme le son d’un marteau sur la pierre ou des chants lointains ou bine des sons d'épées qui s'entrechoquent seront joués dépendament des scènes.
 
-https://github.com/user-attachments/assets/1fee257d-1a3f-411d-b47e-079b779106c6
-
-https://github.com/user-attachments/assets/27b4f1b3-ca41-4343-b74a-f5b5d1027dbc
-
-https://github.com/user-attachments/assets/164f7681-2c3e-4171-9dc9-9fdec1ff69a4
-
-[test](/media/sons/test.mp3)
+[Épée](/media/sons/bruits_epee.mp3)
+[Charette](/media/sons/charette_cheval.mp3)
+[Forge](/media/sons/forge.mp3)
 
 ### Inspirations
 Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien encore _Rome_ qui montrent et explique le mode de vie des romains à leur époque. Les trames sonores et la reconstruction des différents décores romains nous plongent dans leur univers.
