@@ -23,6 +23,27 @@ Une bande sonore immersive qui contient un mélange de murmures de foule, de bru
 [Charette](/media/sons/charette_cheval.mp3)
 [Forge](/media/sons/forge.mp3)
 
+### Graphique
+
+```mermaid
+graph TD;
+    Spectateur-->Bouge{Bouge};
+    Bouge-->Vidéos; 
+    Bouge-->Musiques; 
+    Bouge-->Lumières; 
+    Bouge-->Videéos_sol; 
+    Vidéos-->Voix_Raconte; 
+    Détection_De_Mouvement-->Effets_spéciaux;
+    Videéos_sol-->Détection_De_Mouvement;
+    
+    Spectateur-->Bouge_pas{Bouge Pas};
+    Bouge_pas-->Sons_Cris;
+    Sons_Cris-->text["Cris de sergents 
+    qui forcent le spectateur a bouger"];
+    text-->Bouge{Bouge};
+```
+
+
 ### Inspirations
 Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien encore _Rome_ qui montrent et explique le mode de vie des romains à leur époque. Les trames sonores et la reconstruction des différents décores romains nous plongent dans leur univers.
 
