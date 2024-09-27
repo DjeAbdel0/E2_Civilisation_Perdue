@@ -22,6 +22,7 @@ Une bande sonore immersive qui contient un mélange de murmures de foule, de bru
 [Épée](/media/sons/bruits_epee.mp3)
 [Charette](/media/sons/charette_cheval.mp3)
 [Forge](/media/sons/forge.mp3)
+[Bouge](/media/sons/Move.mp3)
 
 ### Graphique
 
