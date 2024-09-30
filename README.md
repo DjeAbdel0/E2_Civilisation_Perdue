@@ -15,6 +15,7 @@ Revisiter l’histoire ancienne en offrant une nouvelle perspective sur le patri
 ![Monuments](/media/images/monuments.jpeg)
 ![Statues](/media/images/statues.jpeg)
 ![Village](/media/images/village.jpeg)
+![Palette](/media/images/Palette.png)
 
 ### Sonore
 Une bande sonore immersive qui contient un mélange de murmures de foule, de bruits de la nature et de musiques romaines. Des éléments sonores, comme le son d’un marteau sur la pierre ou des chants lointains ou bine des sons d'épées qui s'entrechoquent seront joués dépendament des scènes.
