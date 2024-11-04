@@ -71,24 +71,6 @@ Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- ## Scénarimage
 
-| Catégorie                     | Détails                                                                                              | Nombre |
-|-------------------------------|------------------------------------------------------------------------------------------------------|--------|
-| **Matériel Audiovisuel**      |                                                                                                      |        |
-| Projecteurs                   | Résolution : 1920x1080 (Full HD) <br> Luminosité : Minimum 3000 lumens <br> Type : DLP ou LCD      | 3      |
-| Système audio                 | Haut-parleurs : 2x 100W <br> Carte son : Compatible USB ou PCI <br> Logiciel de mixage | 2x haut-parleurs, 1 carte son |
-| **Capteurs et Interactions**   |                                                                                                      |        |
-| Capteurs de mouvement (TOF)   | Plage : 0,2 m à 4 m <br> Temps de réponse : < 100 ms                                               | 6      |
-| Plateformes de détection      | Sensibilité : Détection de pression légère (1 kg ou moins) <br> Dimensions personnalisables         | 4      |
-| **Éclairage**                 | Spots LED avec variation d’intensité <br> Contrôle DMX <br> Éclairage d’ambiance                   | 5      |
-| **Contraintes Budgétaires**   | Budget limité, recherche de partenariats ou sponsors                                               | -      |
-| **Contraintes de Temps**      | Délais serrés, nécessité de coordination entre équipes                                               | -      |
-| **Contraintes d’Espace**      | Limitations physiques pour l’installation, optimisation de l’espace pour la circulation               | -      |
-| **Contraintes Techniques**     | Compatibilité des équipements et logiciels <br> Fonctionnement fluide des capteurs                   | -      |
-| **Contraintes de Sécurité**   | Sécurisation des équipements, protection des données personnelles                                   | -      |
-
-
-
----- ## Performances techniques en fonction des exigences du projet
 
 ## Étapes de Réalisation
 
@@ -115,6 +97,27 @@ Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien 
    - Vérifications Finales : S'assurer que tous les éléments fonctionnent parfaitement avant l'ouverture.
    - Événement d'Inauguration : Organiser un événement pour le lancement de l'exposition.
 
+| Métier                | Nombre | Responsabilité                                                                                  |
+|----------------------|--------|------------------------------------------------------------------------------------------------|
+| Technicien·ne en son | 1x     | Installation et gestion du matériel audio, création et mixage de la bande sonore immersive, réglage des niveaux audio pendant l'exposition. |
+| Intégrateur·rice     | 1x     | Intégration des éléments graphiques, audio et interactifs, création de l'expérience immersive. |
+| Programmeur·euse     | 1x     | Développement de la logique interactive de l'exposition et gestion des interactivités.        |
+| Concepteur·rice      | 2x     | Création du concept visuel et sonore, design des éléments interactifs et de la narration.      |
+| Développeur·euse     | 1x     | Développement du logiciel d'interaction et intégration avec les capteurs et le matériel.      |
+
+
+
+| Catégorie                     | Détails                                                                                              | Nombre                    |
+|-------------------------------|------------------------------------------------------------------------------------------------------|---------------------------|
+| **Matériel Audiovisuel**      |                                                                                                      |                           |
+| Projecteurs                   | Résolution : 1920x1080 (Full HD) <br> Luminosité : Minimum 3000 lumens <br> Type : DLP ou LCD      | 3                         |
+| Système audio                 | Haut-parleurs : 2x 100W <br> Carte son : Compatible USB ou PCI <br> Logiciel de mixage            | 4 haut-parleurs, 1 carte son |
+| **Capteurs et Interactions**   |                                                                                                      |                           |
+| Capteurs de mouvement (TOF)   | Plage : 0,2 m à 4 m <br> Temps de réponse : < 100 ms                                               | 6                         |
+| Plateformes de détection      | Sensibilité : Détection de pression légère (1 kg ou moins) <br> Dimensions personnalisables         | 3                         |
+| **Éclairage**                 | Spots LED avec variation d’intensité <br> Contrôle DMX <br> Éclairage d’ambiance                   | 4                         |
+
+
 ## Organigramme de la programmation
 ```mermaid
 graph TD;
@@ -125,18 +128,10 @@ graph TD;
     A[Power] --> E[Ordinateur]
     E[Ordinateur] --> G[TOF]
 ```
-
-
-| Métier                | Nombre | Responsabilité                                                                                  |
-|----------------------|--------|------------------------------------------------------------------------------------------------|
-| Technicien·ne en son | 1x     | Installation et gestion du matériel audio, création et mixage de la bande sonore immersive, réglage des niveaux audio pendant l'exposition. |
-| Intégrateur·rice     | 1x     | Intégration des éléments graphiques, audio et interactifs, création de l'expérience immersive. |
-| Programmeur·euse     | 1x     | Développement de la logique interactive de l'exposition et gestion des interactivités.        |
-| Concepteur·rice      | 1x     | Création du concept visuel et sonore, design des éléments interactifs et de la narration.      |
-| Développeur·euse     | 1x     | Développement du logiciel d'interaction et intégration avec les capteurs et le matériel.      |
+![Plantation front-view](medias/plantation_front-view.jpg)
+![Plantation top-view](medias/plantation_top-view.jpg)
 
 ---- ## Numérotation des séquences et médias associés
----- ## Inventaire des médias prévus au scénario et au scénarimage
 ---- ## Stratégie de montage
 
 
