@@ -115,7 +115,17 @@ Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien 
    - Vérifications Finales : S'assurer que tous les éléments fonctionnent parfaitement avant l'ouverture.
    - Événement d'Inauguration : Organiser un événement pour le lancement de l'exposition.
 
----- ## Organigramme de la programmation
+## Organigramme de la programmation
+```mermaid
+graph TD;
+    A[Power] --> B[Hauts-parleurs]
+    F[Carte son] --> B[Hauts-parleurs]
+    A[Power] --> c[Écrans]
+    A[Power] --> D[Projecteurs]
+    A[Power] --> E[Ordinateur]
+    E[Ordinateur] --> G[TOF]
+```
+
 
 | Métier                | Nombre | Responsabilité                                                                                  |
 |----------------------|--------|------------------------------------------------------------------------------------------------|
