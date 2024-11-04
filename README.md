@@ -128,8 +128,8 @@ graph TD;
     A[Power] --> E[Ordinateur]
     E[Ordinateur] --> G[TOF]
 ```
-![Plantation front-view](medias/plantation_front-view.jpg)
-![Plantation top-view](medias/plantation_top-view.jpg)
+![Plantation front-view](media/images/plantation_front-view.jpg)
+![Plantation top-view](media/images/plantation_top-view.jpg)
 
 ---- ## Numérotation des séquences et médias associés
 ---- ## Stratégie de montage
