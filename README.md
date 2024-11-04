@@ -53,7 +53,6 @@ Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien 
   - Caméras
   - Produits audio
   - Projecteurs
-  - Casques de réalité virtuelle
   - Écrans
   - Capteurs de mouvement
   - Systèmes de son
@@ -65,7 +64,6 @@ Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien 
   - Logiciels Web : HTML5 - CSS - JavaScript
   - Logiciels interactifs : Unity - TouchDesigner
   - Logiciels sonore : Max - Logic Pro
-  - Logiciels de réalité augmentée et virtuelle : Unreal Engine - ARKit
   - Outils de prototypage : Figma 
   - Logiciels de gestion de projet : Trello
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
