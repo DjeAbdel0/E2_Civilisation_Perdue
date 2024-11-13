@@ -127,6 +127,7 @@ graph TD;
     A[Power] --> D[Projecteurs]
     A[Power] --> E[Ordinateur]
     E[Ordinateur] --> G[TOF]
+    G[TOF] --> c[Écrans]
 ```
 ![Plantation front-view](media/images/plantation_front-view.jpg)
 ![Plantation top-view](media/images/plantation_top-view.jpg)
