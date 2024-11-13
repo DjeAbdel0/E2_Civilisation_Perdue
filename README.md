@@ -67,7 +67,9 @@ Une grande inspiration des Films/séries comme _Spartacus_, _Gladiator_ ou bien 
   - Outils de prototypage : Figma 
   - Logiciels de gestion de projet : Trello
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----- ## Scénarimage
+## Scénarimage
+![storyboard-1](/media/images/storyboard-1.jpg)
+![storyboard-2](/media/images/storyboard-2.jpg)
 
 
 ## Étapes de Réalisation
