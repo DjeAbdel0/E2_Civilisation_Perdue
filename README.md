@@ -131,7 +131,5 @@ graph TD;
 ![Plantation front-view](media/images/plantation_front-view.jpg)
 ![Plantation top-view](media/images/plantation_top-view.jpg)
 
----- ## Numérotation des séquences et médias associés
----- ## Stratégie de montage
 
 
